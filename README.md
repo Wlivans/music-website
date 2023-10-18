@@ -150,16 +150,6 @@ npm run serve // 启动后台管理项目
 
 <br/>
 
-## 赞助
-
-如果此项目对你确实有帮助，欢迎给我打赏一杯咖啡～😄
-
-
-
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gsgm6jokvaj30gs0feadd.jpg)
-
-
-
 ## License
 
 Copyright (c) 2018 Yin-Hongwei 
